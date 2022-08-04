@@ -1,0 +1,22 @@
+프론트 요청 : http://10.10.10.127:9000/api/happyLoungeItem
+
+요청 방식 : GET
+
+응답
+
+[
+    {
+        "id": 1,
+        "name": "wjtbfG5elPc",
+        "imgUrl1": "https://sui.ssgcdn.com/cmpt/banner/202207/2022072216460396994225724522_92.png"
+        "imgUrl2": "https://sui.ssgcdn.com/cmpt/banner/202207/2022072216460396994225724522_92.png"
+        "imgUrl3": "https://sui.ssgcdn.com/cmpt/banner/202207/2022072216431332432781237278_289.png"
+        "imgUrl4": "https://sui.ssgcdn.com/cmpt/banner/202207/2022072216435453442063698206_435.png"
+        "text1":
+        "text2":
+        "text3":
+        "price":
+        "like":
+    },
+    ...
+]
